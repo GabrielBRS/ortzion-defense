@@ -1,0 +1,7 @@
+dist
+.vinext
+.wrangler
+node_modules
+components/ui
+package-lock.json
+public/og.png
